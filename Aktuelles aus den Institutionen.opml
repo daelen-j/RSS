@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<opml version="2.0">
+	<head>
+		<title>Aktuelles aus den Institutionen.opml</title>
+		<dateCreated>Sat, 18 Jun 2005 12:11:52 GMT</dateCreated>
+		<dateModified>Tue, 02 Aug 2005 21:42:48 GMT</dateModified>
+		<ownerName>Dave Winer</ownerName>
+		<ownerEmail>dave@scripting.com</ownerEmail>
+		<expansionState></expansionState>
+		<vertScrollState>1</vertScrollState>
+		<windowTop>61</windowTop>
+		<windowLeft>304</windowLeft>
+		<windowBottom>562</windowBottom>
+		<windowRight>842</windowRight>
+		</head>
+	<body>
+		<outline text="CNET News.com" description="Tech news and business reports by CNET News.com. Focused on information technology, core topics include computers, hardware, software, networking, and Internet media." htmlUrl="http://news.com.com/" language="unknown" title="CNET News.com" type="rss" version="RSS2" xmlUrl="http://news.com.com/2547-1_3-0-5.xml"/>
+		</body>
+	</opml>
