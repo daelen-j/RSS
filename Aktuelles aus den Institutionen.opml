@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
 <opml version="2.0">
-	<head>
-		<title>Aktuelles aus den Institutionen.opml</title>
-		<dateCreated>Sat, 18 Jun 2005 12:11:52 GMT</dateCreated>
-		<dateModified>Tue, 02 Aug 2005 21:42:48 GMT</dateModified>
-		<ownerName>Dave Winer</ownerName>
-		<ownerEmail>dave@scripting.com</ownerEmail>
-		<expansionState></expansionState>
-		<vertScrollState>1</vertScrollState>
-		<windowTop>61</windowTop>
-		<windowLeft>304</windowLeft>
-		<windowBottom>562</windowBottom>
-		<windowRight>842</windowRight>
-		</head>
-	<body>
-		<outline text="CNET News.com" description="Tech news and business reports by CNET News.com. Focused on information technology, core topics include computers, hardware, software, networking, and Internet media." htmlUrl="http://news.com.com/" language="unknown" title="CNET News.com" type="rss" version="RSS2" xmlUrl="http://news.com.com/2547-1_3-0-5.xml"/>
-		</body>
-	</opml>
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Wed, 17 Apr 2024 08:49:04 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="Institutionen">
+      <outline text="1 - Alle Rechtsvorschriften des Parlaments und des Rates" type="rss" xmlUrl="https://eur-lex.europa.eu/DE/display-feed.rss?rssId=162" htmlUrl="https://eur-lex.europa.eu/homepage.html" description="Diese Benachrichtigung umfasst alle vom Rat allein oder gemeinsam mit dem Europäischen Parlament verabschiedeten Rechtsvorschriften."/>
+      <outline text="2 - Gesamte Rechtsprechung des Gerichtshofs der Europäischen Union" type="rss" xmlUrl="https://eur-lex.europa.eu/DE/display-feed.rss?rssId=163" htmlUrl="https://eur-lex.europa.eu/homepage.html" description="Diese Benachrichtigung umfasst alle Dokumente des Gerichtshofs der Europäischen Union."/>
+      <outline text="3 - Rechtsprechung des Gerichtshofs" type="rss" xmlUrl="https://eur-lex.europa.eu/DE/display-feed.rss?rssId=164" htmlUrl="https://eur-lex.europa.eu/homepage.html" description="Diese Benachrichtigung umfasst Urteile und Beschlüsse des Gerichtshofs, der Teil des Gerichtshofs der Europäischen Union ist."/>
+      <outline text="4 – Kommissionsvorschläge und sonstige Dokumente der Kommission" type="rss" xmlUrl="https://eur-lex.europa.eu/DE/display-feed.rss?rssId=161" htmlUrl="https://eur-lex.europa.eu/homepage.html" description="Diese Benachrichtigung umfasst Kommissionsvorschläge (die ein Rechtsetzungsverfahren einleiten) und andere von der Kommission angenommene Rechtsakte."/>
+      <outline text="5 - Acts of the Official Journal L" type="rss" xmlUrl="https://eur-lex.europa.eu/DE/display-feed.rss?rssId=222" htmlUrl="https://eur-lex.europa.eu/homepage.html" description="This feed retrieves individual acts published in the latest editions of the L series (Legislation) of the "/>
+      <outline text="6 - Acts of the Official Journal C" type="rss" xmlUrl="https://eur-lex.europa.eu/DE/display-feed.rss?rssId=221" htmlUrl="https://eur-lex.europa.eu/homepage.html" description="This feed retrieves individual acts published in the latest editions of the C series (Information and notices) of the "/>
+    </outline>
+    <outline text="Test" frss:opmlUrl="https://raw.githubusercontent.com/daelen-j/RSS/main/Aktuelles%20aus%20den%20Institutionen.opml">
+      <outline text="CNET News.com" type="rss" xmlUrl="http://news.com.com/2547-1_3-0-5.xml" htmlUrl="http://news.com.com/" description="Tech news and business reports by CNET News.com. Focused on information technology, core topics include computers, hardware, software, networking, and Internet media."/>
+    </outline>
+  </body>
+</opml>
