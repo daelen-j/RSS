@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>FreshRSS</title>
+    <dateCreated>Wed, 17 Apr 2024 08:05:39 +0000</dateCreated>
+  </head>
+  <body>
+    <outline text="Institutionen">
+      <outline text="1 - Alle Rechtsvorschriften des Parlaments und des Rates" type="rss" xmlUrl="https://eur-lex.europa.eu/DE/display-feed.rss?rssId=162" htmlUrl="https://eur-lex.europa.eu/homepage.html" description="Diese Benachrichtigung umfasst alle vom Rat allein oder gemeinsam mit dem Europäischen Parlament verabschiedeten Rechtsvorschriften."/>
+      <outline text="2 - Gesamte Rechtsprechung des Gerichtshofs der Europäischen Union" type="rss" xmlUrl="https://eur-lex.europa.eu/DE/display-feed.rss?rssId=163" htmlUrl="https://eur-lex.europa.eu/homepage.html" description="Diese Benachrichtigung umfasst alle Dokumente des Gerichtshofs der Europäischen Union."/>
+      <outline text="3 - Rechtsprechung des Gerichtshofs" type="rss" xmlUrl="https://eur-lex.europa.eu/DE/display-feed.rss?rssId=164" htmlUrl="https://eur-lex.europa.eu/homepage.html" description="Diese Benachrichtigung umfasst Urteile und Beschlüsse des Gerichtshofs, der Teil des Gerichtshofs der Europäischen Union ist."/>
+      <outline text="4 – Kommissionsvorschläge und sonstige Dokumente der Kommission" type="rss" xmlUrl="https://eur-lex.europa.eu/DE/display-feed.rss?rssId=161" htmlUrl="https://eur-lex.europa.eu/homepage.html" description="Diese Benachrichtigung umfasst Kommissionsvorschläge (die ein Rechtsetzungsverfahren einleiten) und andere von der Kommission angenommene Rechtsakte."/>
+      <outline text="5 - Acts of the Official Journal L" type="rss" xmlUrl="https://eur-lex.europa.eu/DE/display-feed.rss?rssId=222" htmlUrl="https://eur-lex.europa.eu/homepage.html" description="This feed retrieves individual acts published in the latest editions of the L series (Legislation) of the &lt;em&gt;Official Journal of the European Union&lt;/em&gt;."/>
+      <outline text="6 - Acts of the Official Journal C" type="rss" xmlUrl="https://eur-lex.europa.eu/DE/display-feed.rss?rssId=221" htmlUrl="https://eur-lex.europa.eu/homepage.html" description="This feed retrieves individual acts published in the latest editions of the C series (Information and notices) of the &lt;em&gt;Official Journal of the European Union&lt;/em&gt;. It also includes the OJ CA edition."/>
+    </outline>
+    <outline text="Produktsicherheit">
+      <outline text="EUR-Lex | GPSR (Dokument folgen) | DE" type="rss" xmlUrl="https://eur-lex.europa.eu/DE/display-feed.rss?myRssId=zqe4%2FMUu%2BB8wdPmj03RYM9y4enMGY8uEdmorAqNRAnI%3D" htmlUrl="https://eur-lex.europa.eu/homepage.html" description="Suchschritt: MS=32023R0988 OR EA=32023R0988 OR AJ=32023R0988 OR BF=32023R0988 OR RD=32023R0988 OR CI=32023R0988 OR LB=32023R0988 ORDER BY XC DESC, Suchsprache: Englisch"/>
+    </outline>
+    <outline text="Uncategorized">
+      <outline text="EUR-Lex | Stichwort-Feed | DE" type="rss" xmlUrl="https://eur-lex.europa.eu/DE/display-feed.rss?myRssId=zqe4%2Bpx19EMwdPmg3XRVPJK62hAnoahwsV8HTWXjT%2FA%3D" htmlUrl="https://eur-lex.europa.eu/homepage.html" description="Suchschritt: TI ~ &quot;cybersecurity&quot; OR TI ~ &quot;product safety&quot; OR TI ~ &quot;machinery products&quot; OR TI ~ &quot;toys&quot; OR TI ~ &quot;construction products&quot; OR TI ~ &quot;artificial intelligence&quot; OR TI ~ &quot;defective products&quot; OR TI ~ &quot;products with digital elements&quot; OR TI ~ &quot;personal protective equipment&quot; OR TI ~ &quot;radio equipment&quot; OR TI ~ &quot;making available on the market&quot; OR TI ~ &quot;certain voltage limits&quot; OR TI ~ &quot;electrical equipment&quot; OR TI ~ &quot;electromagnetic compatibility&quot; OR TI ~ &quot;pressure equipment&quot; OR TI ~ &quot;potentially explosive atmospheres&quot; OR TI ~ &quot;lifts&quot; OR TI ~ &quot;placeholder&quot; OR TI ~ &quot;placeholder&quot; OR TI ~ &quot;placeholder&quot; OR TI ~ &quot;placeholder&quot; OR TI ~ &quot;placeholder&quot; OR TI ~ &quot;placeholder&quot; OR TI ~ &quot;placeholder&quot; OR TI ~ &quot;placeholder&quot;, Suchsprache: Englisch"/>
+    </outline>
+  </body>
+</opml>
